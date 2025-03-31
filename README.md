@@ -1,7 +1,7 @@
 # Mentores-Eng-Soft
 Teste README merge
 
-# Programadores responsaveis pela parte Monitor
+# Programador(es) pela parte "Mentor"
 Anthony Bachiega.
 Gabriel Chaves.
 Pedro Polegato.
